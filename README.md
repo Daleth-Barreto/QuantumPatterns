@@ -37,7 +37,8 @@ The project supports multiple patterns, each with a distinct quantum flavor:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/quantum-visual-patterns.git
+
+git clone [https://github.com/yourusername/quantum-visual-patterns.git](https://github.com/Daleth-Barreto/QuantumPatterns.git)
 cd quantum-visual-patterns
 pip install -r requirements.txt
 ```
