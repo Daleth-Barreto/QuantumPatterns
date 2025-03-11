@@ -38,7 +38,7 @@ Clone the repository and install dependencies:
 
 ```bash
 
-git clone [https://github.com/yourusername/quantum-visual-patterns.git](https://github.com/Daleth-Barreto/QuantumPatterns.git)
+git clone https://github.com/yourusername/quantum-visual-patterns.git
 cd quantum-visual-patterns
 pip install -r requirements.txt
 ```
