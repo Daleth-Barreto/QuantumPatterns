@@ -3,7 +3,7 @@
 
 Turn quantum states into stunning pixel art! This project uses quantum circuits to generate images, transforming quantum measurements into RGB colors. Visualize quantum phenomena like superposition and interference through dynamic, algorithmically generated patterns.
 
-![Quantum Pattern Example](images/quantum_pattern_example.png)
+![Quantum Pattern Example](images/example.png)
 
 ---
 
