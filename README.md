@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/0a196c63-9668-4abe-80fc-20b1c8d7ec44)
 # 🧠 Quantum Visual Patterns with Qiskit
 
 Turn quantum states into stunning pixel art! This project uses quantum circuits to generate images, transforming quantum measurements into RGB colors. Visualize quantum phenomena like superposition and interference through dynamic, algorithmically generated patterns.
